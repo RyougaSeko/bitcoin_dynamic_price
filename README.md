@@ -1,0 +1,2 @@
+# bitcoin_dynamic_price
+ビットコインの価格を、ajaxを用いて動的に表示させるコード
